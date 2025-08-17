@@ -1,5 +1,5 @@
 # Demo
 some text..!
 
-## subheader
+## Subheader
 Hello world 
